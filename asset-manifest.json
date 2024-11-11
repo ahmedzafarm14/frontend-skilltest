@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-skilltest/static/css/main.b7f6fd3d.css",
+    "main.js": "/frontend-skilltest/static/js/main.03632a96.js",
+    "index.html": "/frontend-skilltest/index.html",
+    "main.b7f6fd3d.css.map": "/frontend-skilltest/static/css/main.b7f6fd3d.css.map",
+    "main.03632a96.js.map": "/frontend-skilltest/static/js/main.03632a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7f6fd3d.css",
+    "static/js/main.03632a96.js"
+  ]
+}
